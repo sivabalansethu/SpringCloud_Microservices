@@ -12,3 +12,11 @@ Challenges in Microservices:
 6.	Hystrix (Fault Tolerance)
 7.	Distributed tracing (Zipkin, RabbitMQ) – Facing problem while implementing.
 All the above issues are identified and resolved using the Spring cloud project.
+
+Limits Service	8080, 8081, ...
+Spring Cloud Config Server	8888
+Currency Exchange Service	8000, 8001, 8002, ..
+Currency Conversion Service	8100, 8101, 8102, ...
+Netflix Eureka Naming Server	8761
+Netflix Zuul API Gateway Server	8765
+Zipkin Distributed Tracing Server	9411
