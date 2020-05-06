@@ -20,3 +20,11 @@ Currency Conversion Service	8100, 8101, 8102, ...
 Netflix Eureka Naming Server	8761
 Netflix Zuul API Gateway Server	8765
 Zipkin Distributed Tracing Server	9411
+
+API Gateway
+http://localhost:8765/currency-conversion-service/currency-converter-feign/from/AUD/to/INR/quantity/1000
+
+Eureka Server
+http://localhost:8761/
+
+
